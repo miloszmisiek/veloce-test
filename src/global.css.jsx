@@ -15,4 +15,8 @@ body {
   padding: 2rem;
   text-align: center;
 }
+
+button{
+  cursor: pointer;
+}
 `;
